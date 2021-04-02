@@ -1,0 +1,7 @@
+//magma:3000/worker
+//bonite:3000/worker
+//merry:3000/worker
+//chewie:3000/worker
+//zemanek:3000/worker
+//atkinson:3000/worker
+//torvalds:3000/worker
